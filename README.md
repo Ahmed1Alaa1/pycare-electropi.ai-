@@ -1,2 +1,2 @@
-# pycare-electropi.ai-
+# pycare-electropi.ai
 task electro pi
